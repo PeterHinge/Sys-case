@@ -1,0 +1,25 @@
+Posttraumatic stress disorder evaluation study
+-- 
+
+Clinical psychiatrists have conducted a study on the prevalence
+of PTSD on a sample of current and previous military personel.
+The scale of PTSD ranges from 0 to 1 in terms of severity. 
+
+The data contains the variables:
+
+    gender: man or woman
+    alcohol: weekly average alcohol consumption
+    smoking: regular smoking
+    partner: single or not
+    kids: number of kids
+    age: age in years
+    missions: number of missions 
+    salary: current salary in DKK
+    ptsd: PTSD score
+    
+    
+Objective
+--
+We are interested in predicting who will be affected by PTSD
+from the observed variables and which variables that are 
+significantly affecting the outcome. 
